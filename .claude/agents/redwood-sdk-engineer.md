@@ -14,7 +14,7 @@ color: blue
 
 ---
 
-### 🔧 Feature: \[describe the feature here]
+### 🔧 Feature: \[user input]
 
 Use the following thinking structure to analyze and build the feature RedwoodSDK-style:
 
